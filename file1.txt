@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "green" 
+=======
+"blue" 
+>>>>>>> feature/logout
